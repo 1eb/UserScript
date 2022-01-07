@@ -7,6 +7,8 @@
 // @match        https://console-intl.huaweicloud.com/dns*
 // @icon         https://res-static3.huaweicloud.com/content/dam/cloudbu-site/archive/commons/web_resoure/framework/favicon/favicon.ico
 // @grant        none
+// @license      GPLv3
+// @homepageURL  https://greasyfork.org/zh-CN/users/859890
 // ==/UserScript==
 
 (function() {

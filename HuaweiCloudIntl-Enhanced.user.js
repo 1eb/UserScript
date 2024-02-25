@@ -1,14 +1,15 @@
 // ==UserScript==
 // @name         Huawei Cloud International - Enhanced
-// @namespace    https://github.com/1eb/UserScript
+// @namespace    https://github.com/b1n23/UserScript/blob/main/HuaweiCloudIntl-Enhanced.user.js
 // @version      0.2
 // @description  实现华为云国际云解析控制台免实名使用
-// @updateURL    https://github.com/1eb/UserScript/raw/main/HuaweiCloudIntl-Enhanced.user.js
-// @downloadURL  https://github.com/1eb/UserScript/raw/main/HuaweiCloudIntl-Enhanced.user.js
-// @author       1eb
+// @homepageURL  https://github.com/b1n23/UserScript
+// @updateURL    https://github.com/b1n23/UserScript/raw/main/HuaweiCloudIntl-Enhanced.user.js
+// @downloadURL  https://github.com/b1n23/UserScript/raw/main/HuaweiCloudIntl-Enhanced.user.js
+// @author       b1n23
 // @match        https://console-intl.huaweicloud.com/dns*
 // @icon         https://res-static3.huaweicloud.com/content/dam/cloudbu-site/archive/commons/web_resoure/framework/favicon/favicon.ico
-// @require      https://cdn.staticfile.org/jquery/3.6.2/jquery.min.js
+// @require      https://lf26-cdn-tos.bytecdntp.com/cdn/expire-1-M/jquery/3.6.0/jquery.js
 // @grant        unsafeWindow
 // ==/UserScript==
 

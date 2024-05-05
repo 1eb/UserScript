@@ -238,7 +238,7 @@
                 var search_content = div_list.eq(btn_num).text().replace('搜索', '').replace('已复制','').replace('复制','').replace('*', '').replace('收起', '');
                 var btn_txt = e.target.innerText
                 if (btn_txt=="搜索") {
-                    var search_url = 'https://m.baidu.com/from=1022282z/ssid=0/pu=sz%401320_220/s?word='
+                    var search_url = 'https://m.baidu.com/s?word='
                     var search_url2 = 'https://cn.bing.com/search?q='
                     var search_iframe = $(`
                         <div style='margin-top:1rem;display: flex; flex-wrap: nowrap;' id='search_div_${btn_num}'>
